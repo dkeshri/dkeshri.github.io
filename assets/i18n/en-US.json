@@ -1,0 +1,59 @@
+{
+    "title": "Deepak",
+    "language": "English",
+    "Menu": {
+        "Lang": {
+            "English":"English",
+            "Hindi":"Hindi"
+        },
+        "User": {
+            "Profile":"Profile",
+            "Logout":"Logout"
+        },
+        "Nav": {
+            "Home":"Home",
+            "Orders":"Orders",
+            "Order":"Order",
+            "Customers":"Customers",
+            "Customer":"Customer",
+            "Delete":"Delete",
+            "Add_Customer":"Add Customer",
+            "Products":"Products",
+            "Product":"Product",
+            "Add_Product":"Add Product",
+            "Payments":"Payments",
+            "About":"About"
+        }
+    },
+    "Table":{
+        "Column":{
+            "Header":{
+                "ProductName":"Product Name",
+                "CustomerName":"Customer Name",
+                "OrderId":"Order Id",
+                "CustomerId":"Customer Id",
+                "TotalAmount":"Total Amount"
+            }
+        }
+    },
+    "Form":{
+        "Label":{
+            "Customers":"Customers",
+            "Order":"Order",
+            "Orders":"Orders"
+        }
+    },
+    "Common":{
+        "Save":"Save",
+        "Delete":"Delete",
+        "Total":"Total",
+        "Price":"Price",
+        "Unit":"Unit",
+        "Barcode":"Barcode",
+        "Amount":"Amount",
+        "Action":"Action",
+        "Edit":"Edit",
+        "Quantity":"Quantity",
+        "SNo":"S.No"
+    }
+}

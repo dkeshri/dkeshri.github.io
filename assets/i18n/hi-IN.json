@@ -1,0 +1,59 @@
+{
+    "title":"दीपक",
+    "language":"हिंदी",
+    "Menu": {
+        "Lang": {
+            "English":"अंग्रेज़ी",
+            "Hindi":"हिंदी"
+        },
+        "User": {
+            "Profile":"प्रोफ़ाइल",
+            "Logout":"लॉग आउट"
+        },
+        "Nav": {
+            "Home":"घर",
+            "Orders":"ऑर्डरस",
+            "Order":"ऑर्डर",
+            "Customers":"ग्राहकों",
+            "Customer":"ग्राहक",
+            "Delete":"मिटाना",
+            "Add_Customer":"ग्राहक जोड़ें",
+            "Products":"उत्पादों",
+            "Product":"उत्पाद",
+            "Add_Product":"उत्पाद जोड़ें",
+            "Payments":"भुगतान",
+            "About":"बारे में"
+        }
+    },
+    "Table":{
+        "Column":{
+            "Header":{
+                "ProductName":"उत्पाद का नाम",
+                "CustomerName":"ग्राहक का नाम",
+                "OrderId":"Order Id",
+                "CustomerId":"ग्राहक पहचान",
+                "TotalAmount":"कुल रकम"
+            }
+        }
+    },
+    "Form":{
+        "Label":{
+            "Customers":"ग्राहकों",
+            "Order":"ऑर्डर",
+            "Orders":"ऑर्डरस"
+        }
+    },
+    "Common":{
+        "Save":"सुरक्षित",
+        "Delete":"मिटाना",
+        "Total":"कुल",
+        "Price":"रेट",
+        "Unit":"इकाई ",
+        "Barcode":"बारकोड",
+        "Amount":"रकम",
+        "Action":"कार्य",
+        "Edit":"संपादन",
+        "Quantity":"मात्रा",
+        "SNo":"क्र.सं"
+    }
+}
