@@ -22,7 +22,9 @@
             "Product":"उत्पाद",
             "Add_Product":"उत्पाद जोड़ें",
             "Payments":"भुगतान",
-            "About":"बारे में"
+            "About":"बारे में",
+            "Units":"Units",
+            "Add_Unit":"Add Unit"
         }
     },
     "Table":{

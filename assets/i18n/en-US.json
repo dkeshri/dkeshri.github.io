@@ -22,7 +22,9 @@
             "Product":"Product",
             "Add_Product":"Add Product",
             "Payments":"Payments",
-            "About":"About"
+            "About":"About",
+            "Units":"Units",
+            "Add_Unit":"Add Unit"
         }
     },
     "Table":{
