@@ -48,6 +48,7 @@
     "Common":{
         "Save":"Save",
         "Delete":"Delete",
+        "Update":"Update",
         "Total":"Total",
         "Price":"Price",
         "Unit":"Unit",

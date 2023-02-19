@@ -1,6 +1,6 @@
 {
     "title":"दीपक",
-    "language":"हिंदी",
+    "language":"भाषा",
     "Menu": {
         "Lang": {
             "English":"अंग्रेज़ी",
@@ -48,6 +48,7 @@
     "Common":{
         "Save":"सुरक्षित",
         "Delete":"मिटाना",
+        "Update":"नवीनतम",
         "Total":"कुल",
         "Price":"रेट",
         "Unit":"इकाई ",
