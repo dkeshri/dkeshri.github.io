@@ -1,6 +1,7 @@
 {
     "title":"दीपक",
-    "language":"भाषा",
+    "language":"हिंदी",
+    "languageLabel":"भाषा",
     "Menu": {
         "Lang": {
             "English":"अंग्रेज़ी",

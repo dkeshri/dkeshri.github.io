@@ -1,6 +1,7 @@
 {
     "title": "Deepak",
     "language": "English",
+    "languageLabel":"Language",
     "Menu": {
         "Lang": {
             "English":"English",
