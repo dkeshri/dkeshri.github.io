@@ -25,7 +25,11 @@
             "Payments":"Payments",
             "About":"About",
             "Units":"Units",
-            "Add_Unit":"Add Unit"
+            "Add_Unit":"Add Unit",
+            "Shops":"Shops",
+            "Add_Shop":"Add Shop",
+            "Users":"Users",
+            "Add_User":"Add User"
         }
     },
     "Table":{
