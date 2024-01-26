@@ -2,6 +2,8 @@
     "githubEndPoint":"https://api.github.com",
     "githubToken":"_MUG1Iuoe2Jen7bEdQFCRYIgv2vkNKN4Pl",
     "version":"1.0.0",
-    "branch":"main",
-    "contentDir":"/assets/contents"
+    "branch":"gh-pages",
+    "contentDir":"/assets/contents",
+    "owner":"dkeshri",
+    "repo":"Learn"
 }
