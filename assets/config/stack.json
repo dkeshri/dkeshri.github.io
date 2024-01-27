@@ -1,0 +1,11 @@
+[
+    { "label": "ALL", "value": "all" },
+    { "label": "JAVASCRIPT", "value": "javascript" },
+    { "label": "CSS", "value": "css" },
+    { "label": "DOTNET", "value": "dotnet" },
+    { "label": "OTHER", "value": "other" },
+    { "label": "AZURE", "value": "azure" },
+    { "label": "AWS", "value": "aws" },
+    { "label": "ANGULAR", "value": "angular" }
+
+]
