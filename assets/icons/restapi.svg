@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Hexagon background -->
+  <path d="M32 2L56 16V48L32 62L8 48V16L32 2Z" fill="currentColor" opacity="0.15"></path>
+
+  <!-- Nodes -->
+  <circle cx="32" cy="18" r="4" fill="currentColor"></circle>
+  <circle cx="18" cy="38" r="4" fill="currentColor"></circle>
+  <circle cx="46" cy="38" r="4" fill="currentColor"></circle>
+
+  <!-- Connections -->
+  <path d="M32 22V30M32 30L20 36M32 30L44 36" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>

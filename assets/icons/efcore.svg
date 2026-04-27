@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Hexagon background -->
+  <path d="M32 2L56 16V48L32 62L8 48V16L32 2Z" fill="currentColor" opacity="0.15"></path>
+
+  <!-- Inner EF letters -->
+  <path d="M22 40V24H34V27H25V31H33V34H25V37H34V40H22Z" fill="currentColor"></path>
+
+  <path d="M36 40V24H46V27H39V31H45V34H39V40H36Z" fill="currentColor"></path>
+</svg>
